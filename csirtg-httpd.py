@@ -50,7 +50,7 @@ def _log_indicator(indicator, content):
         "user": USER,
         "feed": FEED,
         "indicator": indicator,
-        "tags": ['httpd', 'bruteforce', 'scanner'],
+        "tags": ['httpd', 'scanner'],
         "description": 'unauthorized probe',
         "portlist": "80",
         "content": content,

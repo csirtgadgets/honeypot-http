@@ -4,7 +4,7 @@ set -e
 
 CSIRTG_USER=$CSIRTG_USER
 CSIRTG_FEED=$CSIRTG_FEED
-CSIRTF_TOKEN=$CSIRTG_TOKEN
+CSIRTG_TOKEN=$CSIRTG_TOKEN
 
 #docker pull csirtgadgets/honeypot-http
 
