@@ -6,7 +6,7 @@ CSIRTG_USER=$CSIRTG_USER
 CSIRTG_FEED=$CSIRTG_FEED
 CSIRTF_TOKEN=$CSIRTG_TOKEN
 
-docker pull csirtgadgets/honeypot-http
+#docker pull csirtgadgets/honeypot-http
 
 docker run \
   -p 80:8080 \
